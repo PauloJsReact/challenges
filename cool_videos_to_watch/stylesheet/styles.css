@@ -1,7 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
 body{
+  
     background-color:#1D1D1D;
 }
 h1{
+    font-family: 'Inter', sans-serif;
     color: white;
     align-content: center;
     text-align: center;
@@ -13,4 +19,14 @@ h1{
 }
 a{
     margin: 3px;
+}
+h3{
+    font-family: 'Inter', sans-serif;
+    color: white;
+    align-content: center;
+    text-align: center;
+}
+
+#return{
+    text-align: center;
 }
